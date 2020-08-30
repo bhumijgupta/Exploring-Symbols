@@ -1,0 +1,15 @@
+{
+  "name": "symbols-pt1",
+  "version": "1.0.0",
+  "description": "Learn more about javascript symbols by exploring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js -q --config nodemon.json"
+  },
+  "author": "Bhumij Gupta <bhumijgupta@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
