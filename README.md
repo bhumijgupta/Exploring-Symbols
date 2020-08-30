@@ -27,3 +27,19 @@ Slides - [Google Slides](https://docs.google.com/presentation/d/1mR7u1W82M59d2FC
 
 **I made changes to file but it is not executed**  
 Make sure the file you have made changes to is included and uncommented in [index.js](./introduction/index.js)
+
+## Build with ♡ by
+
+### Bhumij Gupta
+
+<img src="https://avatars.githubusercontent.com/bhumijgupta?size=200" alt="Bhumij profile picture">
+
+![GitHub followers](https://img.shields.io/github/followers/bhumijgupta?label=Follow&style=social) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@bhumijgupta&color=success&logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/bhumijgupta/) ![Twitter Follow](https://img.shields.io/twitter/follow/bhumijgupta?style=social)
+
+---
+
+```javascript
+if (repo.isAwesome || repo.isHelpful) {
+  StarRepo();
+}
+```
